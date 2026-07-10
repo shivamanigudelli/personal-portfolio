@@ -30,3 +30,5 @@ Portfolio/
 ## Author
 
 Shivamani Gudelli
+##Version 1.1
+Improved documentation.
