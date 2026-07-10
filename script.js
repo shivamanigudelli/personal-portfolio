@@ -1,4 +1,3 @@
-// Smooth scrolling for navigation links
 
 document.querySelectorAll('nav a').forEach(link => {
     link.addEventListener('click', function(e) {
@@ -13,7 +12,7 @@ document.querySelectorAll('nav a').forEach(link => {
 });
 
 
-// Contact Form
+
 
 const form = document.querySelector("form");
 
@@ -28,7 +27,6 @@ form.addEventListener("submit", function(e){
 });
 
 
-// Reveal animation on scroll
 
 const sections = document.querySelectorAll("section");
 

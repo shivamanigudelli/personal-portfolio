@@ -14,7 +14,6 @@ body{
     color:#333;
 }
 
-/* Header */
 
 header{
     display:flex;
@@ -53,7 +52,6 @@ nav ul li a:hover{
     color:#ffd43b;
 }
 
-/* Hero */
 
 .hero{
     display:flex;
@@ -106,7 +104,6 @@ nav ul li a:hover{
     max-width:100%;
 }
 
-/* Sections */
 
 section{
     padding:70px 8%;
@@ -119,7 +116,6 @@ section h2{
     color:#0d6efd;
 }
 
-/* About */
 
 #about p{
     text-align:center;
@@ -129,7 +125,6 @@ section h2{
     line-height:1.8;
 }
 
-/* Skills */
 
 .skill-box{
     display:grid;
@@ -156,7 +151,7 @@ section h2{
     margin-bottom:15px;
 }
 
-/* Projects */
+
 
 .project-container{
     display:grid;
@@ -176,7 +171,7 @@ section h2{
     transform:scale(1.04);
 }
 
-/* Contact */
+
 
 form{
     max-width:600px;
@@ -209,7 +204,7 @@ button:hover{
     background:#084dbd;
 }
 
-/* Footer */
+
 
 footer{
     background:#0d6efd;
@@ -219,7 +214,6 @@ footer{
     margin-top:30px;
 }
 
-/* Responsive */
 
 @media(max-width:768px){
 
